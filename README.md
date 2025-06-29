@@ -133,6 +133,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Vue.js team for the amazing framework
 - Contributors and community for feedback and suggestions
-- [Add any other acknowledgments]
 
 ⭐ If you found this project helpful, please give it a star!
